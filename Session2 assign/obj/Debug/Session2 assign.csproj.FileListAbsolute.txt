@@ -1,0 +1,7 @@
+D:\apps\session 2\Session2 assign\bin\Debug\Session2 assign.exe.config
+D:\apps\session 2\Session2 assign\bin\Debug\Session2 assign.exe
+D:\apps\session 2\Session2 assign\bin\Debug\Session2 assign.pdb
+D:\apps\session 2\Session2 assign\obj\Debug\Session2 assign.csproj.AssemblyReference.cache
+D:\apps\session 2\Session2 assign\obj\Debug\Session2 assign.csproj.CoreCompileInputs.cache
+D:\apps\session 2\Session2 assign\obj\Debug\Session2 assign.exe
+D:\apps\session 2\Session2 assign\obj\Debug\Session2 assign.pdb
